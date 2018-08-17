@@ -8,3 +8,4 @@ puts "souta writed"
 puts "Tomohiko writed"
 
 puts"habanabanana"
+puts "kimurakimura"
